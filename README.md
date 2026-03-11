@@ -2,6 +2,9 @@
 
 Este projeto tem como objetivo a segmentação de uma base de clientes utilizando a metodologia RFM (Recência, Frequência, Valor Monetário) e o algoritmo de clusterização K-Means. A análise transforma dados brutos de vendas em perfis de consumidores considerando suas características de consumo, facilitando a personalização e o direcionamento de campanhas de marketing, visando aumento da retenção de consumidores.
 
+### Dashboard
+Como complemento à análise de agrupamento, também foi criado um Dashboard interativo de vendas dividido em três abas: uma de visualização dinâmica dos dados de vendas, outra com levantamento de insights estratégicos e a última, com planos de ação propondo campanhas de marketing e vendas guiadas pelos resultados. O Dashboard se encontra nos arquivos.
+
 ### Metodologia de Análise
 
 O pipeline de dados foi estruturado da seguinte forma:
